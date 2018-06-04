@@ -4,6 +4,13 @@
 #include <cstdlib>
 #include <ctime>
 
+/*
+ *Author: Austin Holst
+ *Date: 6 - 04 - 2018
+ *Code: Does the same thing as students list but uses a Hash Table to store the data.
+ *Note: Shout out to Dieter for helping me with the rehash and randomize stuff.
+ */
+
 using namespace std;
 
 //Struct with all the info for a student
